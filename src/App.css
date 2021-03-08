@@ -1,0 +1,20 @@
+.allforum{
+  width : 500px;
+  height : 400px;
+  border : solid 1px black;
+  margin : 50px auto
+}
+
+.all-btn{
+display:  flex;
+align-items:center;
+justify-content: center;
+margin-top: 40px;
+}
+
+.text1{
+  color : red;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 800;
+}
